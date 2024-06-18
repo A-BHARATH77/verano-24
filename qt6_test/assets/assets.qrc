@@ -1,0 +1,33 @@
+<RCC>
+  <qresource prefix="bottom">
+    <file>bent-down.png</file>
+    <file>bent-left.png</file>
+    <file>bent-right.png</file>
+    <file>bent-up.png</file>
+    <file>play-gray.png</file>
+    <file>power-gray.png</file>
+    <file>stop-gray.png</file>
+    <file>power.png</file>
+    <file>stop.png</file>
+    <file>forward.jpeg</file>
+    <file>play.png</file>
+  </qresource>
+  <qresource prefix="robot-panel">
+    <file>minus.png</file>
+    <file>plus.png</file>
+  </qresource>
+  <qresource prefix="move-content">
+    <file>norm-down.png</file>
+    <file>norm-up.png</file>
+    <file>turn-right.png</file>
+    <file>turn-left.png</file>
+    <file>skewed-left.png</file>
+    <file>skewed-right.png</file>
+    <file>curve-left.svg</file>
+    <file>skewed-down.png</file>
+    <file>skewed-up.png</file>
+    <file>curve-right.jpg</file>
+    <file>left.svg</file>
+    <file>right.svg</file>
+  </qresource>
+</RCC>
